@@ -1,4 +1,4 @@
-import socket  # importing all the necessary netowk modules
+import socket  # importing all the necessary network modules
 
 HOST = "127.0.0.1"  # allows the machine to communicate with itself (i.e., localhost)
 PORT = 65432  # port to listen on (non-privileged ports are > 1023)
